@@ -87,10 +87,14 @@ Foram alocados os membros nas issues pelo o integrante [Pablo][PabloGH]. Também
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
 <<<<<<< HEAD
+<<<<<<< HEAD
 |`1.0`| 13/11/2024 | Criação do documento|[Cláudio Henrique][ClaudioGH]   |[Elias Oliveira][EliasGH] | Não foram encontrados inconsistências na ata, apenas erros de markdown.  |
 =======
 |`1.0`| 13/11/2024 | Criação do documento|[Cláudio Henrique][ClaudioGH]   |[Elias Oliveira][EliasGH] | |
 >>>>>>> 3775378 (add ata reuniao 4/sprint2)
+=======
+|`1.0`| 13/11/2024 | Criação do documento|[Cláudio Henrique][ClaudioGH]   |[Elias Oliveira][EliasGH] | Não foram encontrados inconsistências na ata, apenas erros de markdown.  |
+>>>>>>> c3230a9 (Update ata_04.md)
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
