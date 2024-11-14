@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Este artefato resume a reunião do dia 12 de Novembro de 2024 do grupo 05, nele está contido os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
+Este artefato resume a reunião do dia 12 de novembro de 2024 do grupo 05, nele está contido os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
 
 
 ## Pautas da reunião:
@@ -85,7 +85,7 @@ Foram alocados os membros nas issues pelo o integrante [Pablo][PabloGH]. Também
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 13/11/2024 | Criação do documento|[Cláudio Henrique][ClaudioGH]   |[Elias Oliveira][EliasGH] | |
+|`1.0`| 13/11/2024 | Criação do documento|[Cláudio Henrique][ClaudioGH]   |[Elias Oliveira][EliasGH] | Não foram encontrados inconsistências na ata, apenas erros de markdown.  |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
