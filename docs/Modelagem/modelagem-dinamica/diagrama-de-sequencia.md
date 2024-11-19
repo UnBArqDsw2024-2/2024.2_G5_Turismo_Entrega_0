@@ -85,7 +85,7 @@ Para realizar os diagramas de sequência foram escolhidos casos de uso e criado 
 
 #### Avaliar Evento
 
-![AvaliarEvento](../../assets/diagrama-de-sequencia/)
+![AvaliarEvento](../../assets/diagrama-de-sequencia/avaliar.png)
 
 #### Editar Evento
 
@@ -107,8 +107,8 @@ Para realizar os diagramas de sequência foram escolhidos casos de uso e criado 
 
 ## Bibliografia
 
-- > UML Sequence Diagrams. Disponível em: [Diagrama de sequência](https://www.uml-diagrams.org/sequence-diagrams.html)
-- > IBM - Documentação sobre [Diagramas de Seqüência](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams)
+- > UML Sequence Diagrams. Disponível em: [Link](https://www.uml-diagrams.org/sequence-diagrams.html). Acessado em: 18/11/2024.
+- > IBM - Processo de Desenvolvimento e Diagramas de Seqüência. Disponínel em: [Link](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams). Acessado em: 18/11/2024.
 
 ## Histórico de Versão
 
