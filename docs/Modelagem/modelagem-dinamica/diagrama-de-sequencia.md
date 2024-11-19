@@ -14,7 +14,63 @@ Para realizar os diagramas de sequência foram escolhidos casos de uso e criado 
 - 6. Determinar condições especiais;
 - 7. Desenhar o Diagrama.
 
-## Tabela com as diretrizes
+## Tabela com as diretrizes para 
+
+|Conhecer festividades por região|2. Descrição do UseCase| |
+|:----|:----|:----|
+| |3. Identificar o atores| |
+| |4. Identificar as mensagens| |
+| |5.Determinar Sequência| |
+| |6. Condições especiais| |
+|Ver eventos por região|2. Descrição do UseCase| |
+| |3. Identificar o atores| |
+| |4. Identificar as mensagens| |
+| |5.Determinar Sequência| |
+| |6. Condições especiais| |
+|Criar Evento|2. Descrição do UseCase|Usuário Anfitrião/Organizador acessa a seção de "adicionar evento", seleciona a opção de "criar evento" , preenche as informações e clica em "Criar"|
+| |3. Identificar o atores|Usuário Anfitrião/Organizador - Sistema EvenTour - Banco de Dados|
+| |4. Identificar as mensagens|1. Seta aberta para "adicionar evento". 2. Seta aberta para "criar evento" 3. Seta tracejada aberta para criação da instância de um evento com os dados. 4. seta de retorno do Banco de dados|
+| |5.Determinar Sequência| |
+| |6. Condições especiais| |
+|Favoritar Eventos|2. Descrição do UseCase|Usuário acessa a seção de "eventos", seleciona algum evento e clica para favoritar o evento.|
+| |3. Identificar o atores|Usuário - Sistema - Banco de Dados|
+| |4. Identificar as mensagens|1. Seta fechada para entrar na seção de "eventos". 2. Seta fechada para selecionar evento. 3. Seta fechada para favoritar evento|
+| |5.Determinar Sequência|1 a 3|
+| |6. Condições especiais|-|
+|Comentar eventos|2. Descrição do UseCase| |
+| |3. Identificar o atores| |
+| |4. Identificar as mensagens| |
+| |5.Determinar Sequência| |
+| |6. Condições especiais| |
+|Alertas|2. Descrição do UseCase| |
+| |3. Identificar o atores| |
+| |4. Identificar as mensagens| |
+| |5.Determinar Sequência| |
+| |6. Condições especiais| |
+|Filtrar eventos|2. Descrição do UseCase|O usuário navega até a seção "eventos", seleciona o tipo de filtro que deseja e clica no botão filtrar.|
+| |3. Identificar o atores|Usuário final - Sistema - Banco de Dados|
+| |4. Identificar as mensagens|1. -> Seta aberta para evento. 2. -> Seta aberta para selecionar tipo de filtro. 3 -> Seta fechada para filtrar(Apresentar condição para retornar eventos filtrados). 4. Seta pontilhada  para resposta da ação filtrar.|
+| |5.Determinar Sequência| |
+| |6. Condições especiais| |
+|Avaliar eventos|2. Descrição do UseCase|O Usuário navega até a opção de eventos salvos em seu perfil e clicando na opção avaliar seleciona a quantidade de estrelas relacionadas a qualidade do evento, logo abaixo tem a possibilidade de deixar o seu feedback sobre o evento caso queira.|
+| |3. Identificar o atores|Usuário - Sistema - Banco de Dados|
+| |4. Identificar as mensagens|1. Assíncrona(Usuário navega até a pagina dos eventos) 2.Síncrona(É chamado método para procurar os eventos pela localização da controller) 3.Síncrona(É chamado método para procurar os eventos pela localização da EventService) 4.Síncrona(São requisitados os os dados no banco de dados pelo método na EventService) 5.Assíncrona(O Usuário visualiza e navega até o evento pretendido) 6.Síncrona(Usuário avalia o evento) 7.Síncrona(É chamado o método rateEvent(Evento) da controller) 8.Síncrona(É chamado o método rateEvent na FavoritedEventsService) 9.Síncrona(É persistida a avaliação do usuário no banco de dados.)|5.Determinar Sequência|1 a 9|
+| |6. Condições especiais|-|
+|Editar evento|2. Descrição do UseCase|Usuário Anfitrião/Organizador acessa a seção de "adicionar evento", seleciona a opção de "criar evento" , preenche as informações e clica em "Criar"|
+| |3. Identificar o atores|Usuário Anfitrião/Organizador - Sistema EvenTour - Banco de Dados|
+| |4. Identificar as mensagens|1. Seta aberta para "meus eventos". 2. Seta aberta para "editar evento" 3. Seta fechada para edição de um evento com os dados. 4. seta de retorno do Banco de dados com confirmação da alteração|
+| |5.Determinar Sequência|1 a 4|
+| |6. Condições especiais|-|
+|Logar|2. Descrição do UseCase|O usuário irá realizar o login, navegando até a opção "Login", inserindo o seu e-mail e senha e clicando em "Login"|
+| |3. Identificar o atores|Usuário - Sistema - Banco de dados|
+| |4. Identificar as mensagens|1. Assíncrona(Navega até a opção login) 2.Assíncrona(Insere o e-mail e senha) 3.Síncrona(Clica em logar) 4. Síncrona(Método login() é chamado na controller) 5. Síncrona(O método authenticate() é chamado) 6. Síncrona(É realizada a autenticação)|
+| |5.Determinar Sequência|1 a 6|
+| |6. Condições especiais|O Usuário esquece a senha cadastrada.|
+|Cadastrar-se|2. Descrição do UseCase|O usuário navega até a opção cadastrar-se; Insere os dados informando suas características e confirma o cadastro.|
+| |3. Identificar o atores|Usuário - Sistema - Banco de dados|
+| |4. Identificar as mensagens|1. Síncrona (Seleciona a opção de cadastro) 2.Síncrona(O Usuário insere seus dados) 3. Assíncrona(Usuário clica em cadastrar-se) 4. Assíncrona(É chamado o método register da controler.) 5. Assíncrona(É chamado o método create da UserService.) 5.1 Resposta (É criado um objeto do tipo User passando as informações inseridas) 6.Create(É persistido pela entidade no banco de dados).|5.Determinar Sequência|1 a 6.|
+| |6. Condições especiais|1. Em caso dos dados inseridos não estiverem de acordo com o padrão exigido ou estiverem faltando preenchimento de campos obrigatórios, o cadastro será rejeitado.|
+
 
 
 ## Diagramas
