@@ -1,8 +1,26 @@
 ## Introdução
 
+O diagrama de sequência é um diagrama UML que é composto pela representação de objetos dando ênfase na sequência que acontece as interações entre os objetos. Cada objeto um possui sua linha de vida e apresenta os momentos em que o objeto foi ativado entrando em comunicação com outro objeto. Os objetos podem comunicar-se entre si por meio de diferentes tipos de mensagens, também é representado no diagrama estruturas de controle entre os objetos.
+
 ## Metodologia
 
+Para realizar os diagramas de sequência foram escolhidos casos de uso e criado um diagrama de sequência para cada. Os casos de uso foram criados a partir do [diagrama de classes]() realizado anteriormente pelo grupo. Para criar os diagramas seguimos as diretrizes apresentadas abaixo, logo mais abaixo estarão uma tabela com os dados referidos as diretrizes relacionados a cada caso de uso e após os diagramas em si.
+
+- 1. Selecionar um caso de uso;
+- 2. Escrever uma descrição detalhada das ações do caso de uso;
+- 3. Identificar ações que os objetos trocam entre si;
+- 4. Identificar atores e objetos que interagem;
+- 5. Determinar sequência de mensagens;
+- 6. Determinar condições especiais;
+- 7. Desenhar o Diagrama.
+
+## Tabela com as diretrizes
+
+
 ## Diagramas
+
+
+
 
 ## Gravação da reunião
 
@@ -12,7 +30,8 @@
 
 ## Bibliografia
 
-> UML Sequence Diagrams. Disponível em: [Diagrama de sequência](https://www.uml-diagrams.org/sequence-diagrams.html)
+- > UML Sequence Diagrams. Disponível em: [Diagrama de sequência](https://www.uml-diagrams.org/sequence-diagrams.html)
+- > IBM - Documentação sobre [Diagramas de Seqüência](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams)
 
 ## Histórico de Versão
 
