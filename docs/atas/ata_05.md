@@ -8,12 +8,20 @@ Este artefato resume a reunião do dia 19 de novembro de 2024 do grupo 05, nele 
 
 ## Pautas da reunião:
 
-- Review da Sprint 1 - Foco 01 da Entrega 02:
-  - Modelagem Estática.
+- Review da Sprint 3 - Foco 2 da Entrega 2:
+  - Modelagem Estática e Dinâmina.
 
-- Decidir a organização do Backlog do Produto e sua priorização.
-- Decidir próximas atividades da Sprint 2(12-19/11) - Foco 2 da Entrega 2
+- Decidir próximas atividades da Sprint 4(12-19/11) - Foco 3 da Entrega 2.
+    - Modelagem organizacional ou Casos de Uso.
+    - Diagrama de Pacotes e diagrama de Casos de Uso.
 
+- Requisitos Filtrados e Priorizados.
+
+- Elaborar artefato de léxicos.
+
+- Reforçar o uso do template criado para elaboração do artefatos.
+
+- Artefatos Extras: Backlog do produto, backlog da sprint, backlog priorizado.
 
 ## Integrantes presentes:
 
@@ -23,13 +31,13 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 <label><input type="checkbox" checked disabled>[Cainã Freitas](https://github.com/freitasc)</label><br>
 <label><input type="checkbox" checked disabled>[Cláudio Henrique](https://github.com/claudiohsc)</label><br>
 <label><input type="checkbox" checked disabled>[Elias Faria](https://github.com/EliasOliver21)</label><br>
-<label><input type="checkbox" unchecked disabled>[Guilherme Meister](https://github.com/gmeister18)</label><br>
-<label><input type="checkbox" unchecked disabled>[Joel Rangel](https://github.com/JoelSRangel)</label><br>
-<label><input type="checkbox" checked disabled>[Kathlyn Lara](https://github.com/klmurussi)</label><br>
+<label><input type="checkbox" checked disabled>[Guilherme Meister](https://github.com/gmeister18)</label><br>
+<label><input type="checkbox" checked disabled>[Joel Rangel](https://github.com/JoelSRangel)</label><br>
+<label><input type="checkbox" unchecked disabled>[Kathlyn Lara](https://github.com/klmurussi)</label><br>
 <label><input type="checkbox" checked disabled>[Pablo Costa](https://github.com/pabloheika)</label><br>
-<label><input type="checkbox" checked disabled>[Pedro Menezes](https://github.com/pedro-rodiguero)</label><br>
+<label><input type="checkbox" unchecked disabled>[Pedro Menezes](https://github.com/pedro-rodiguero)</label><br>
 <label><input type="checkbox" checked disabled>[Pedro Paulo](https://github.com/pabloheika)</label><br>
-<label><input type="checkbox" checked disabled>[Samuel Alves](https://github.com/samuelalvess)</label><br>
+<label><input type="checkbox" unchecked disabled>[Samuel Alves](https://github.com/samuelalvess)</label><br>
 <label><input type="checkbox" checked disabled>[Tales Rodrigues](https://github.com/TalesRG)</label><br>
 
 
@@ -42,30 +50,33 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 | Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
-| 19/11/2024  | 21:15 | --  | Teams |
+| 19/11/2024  | 21:30 | 22:00  | Teams |
 
 <font size="2" >
 
 <p> 
 
-  Fonte: [Elias Oliveira][EliasGH], 2024. 
+  Autor: [Elias Oliveira][EliasGH], 2024. 
 </p>
 
 </font>
 
 ## Resultados da reunião 04
 
+Foi decidido na reunião para a próxima sprint a divisão do grupo em dois grupos para a elaboração dos diagramas do terceiro foco, que são: digrama de pacotes e diagrama de casos de uso. Também o grupo se atentou a completar as entregas não concluídas e realizar até a data final a priorização dos requisitos elicitados e elaborar o backlog  do produto.
 
 
 ## Gravação da reunião
 
-<iframe src="" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Reunião em _General_-20241112_211327-Gravação de Reunião.mp4"></iframe>
+<div style= "max-width:450px">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vsUlASCDfik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 <font size="2" >
 
 <p> 
 
-  Fonte: [Elias Oliveira][EliasGH], 2024. 
+  Autor: [Elias Oliveira][EliasGH], 2024. 
 </p>
 
 </font>
@@ -74,7 +85,7 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 19/11/2024 | Criação do documento| [Elias Oliveira][EliasGH] | | Não foram encontrados inconsistências na ata, apenas erros de markdown.  |
+|`1.0`| 19/11/2024 | Criação do documento| [Elias Oliveira][EliasGH] |  | |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
