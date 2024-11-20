@@ -3,7 +3,6 @@
 
 ## Introdução
 
-
 Este artefato resume a reunião do dia 12 de novembro de 2024 do grupo 05, nele está contido os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
 
 
