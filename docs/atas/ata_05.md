@@ -12,14 +12,14 @@ Este artefato resume a reunião do dia 19 de novembro de 2024 do grupo 05, nele 
   - Modelagem Estática e Dinâmina.
 
 - Decidir próximas atividades da Sprint 4(12-19/11) - Foco 3 da Entrega 2.
-    - Modelagem organizacional ou Casos de Uso.
-    - Diagrama de Pacotes e diagrama de Casos de Uso.
+    - Modelagem organizacional ou Casos de Uso;
+    - Diagrama de Pacotes e Diagrama de Casos de Uso.
 
-- Requisitos Filtrados e Priorizados.
+- Requisitos Filtrados e Priorizados;
 
-- Elaborar artefato de léxicos.
+- Elaborar artefato de léxicos;
 
-- Reforçar o uso do template criado para elaboração do artefatos.
+- Reforçar o uso do template criado para elaboração do artefatos;
 
 - Artefatos Extras: Backlog do produto, backlog da sprint, backlog priorizado.
 
@@ -63,7 +63,7 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 ## Resultados da reunião 04
 
-Foi decidido na reunião para a próxima sprint a divisão do grupo em dois grupos para a elaboração dos diagramas do terceiro foco, que são: digrama de pacotes e diagrama de casos de uso. Também o grupo se atentou a completar as entregas não concluídas e realizar até a data final a priorização dos requisitos elicitados e elaborar o backlog  do produto.
+Foi decidido na reunião para a próxima Sprint a divisão do grupo em duas equipes de trabalho para a elaboração dos diagramas do terceiro foco, que são: Diagrama de Pacotes e Diagrama de Casos de Uso. Também o grupo se atentou a completar as entregas não concluídas e a realizar até a data final da Sprint 4 a priorização dos requisitos elicitados e elaborar o Backlog  do Produto.
 
 
 ## Gravação da reunião
@@ -85,7 +85,7 @@ Foi decidido na reunião para a próxima sprint a divisão do grupo em dois grup
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 19/11/2024 | Criação do documento| [Elias Oliveira][EliasGH] |  | |
+|`1.0`| 19/11/2024 | Criação do documento| [Elias Oliveira][EliasGH] | [Cláudio Henrique][ClaudioGH] |Artefato foi revisado e corrigido apenas alguns erros gramaticais. |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
