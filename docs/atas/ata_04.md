@@ -87,6 +87,7 @@ Foram alocados os membros nas issues pelo o integrante [Pablo][PabloGH]. Também
 |:-:|:-:|:-:|:-:|:-:|:--:|
 |`1.0`| 13/11/2024 | Criação do documento|[Cláudio Henrique][ClaudioGH]   |[Elias Oliveira][EliasGH] | Não foram encontrados inconsistências na ata, apenas erros de markdown.  |
 
+
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
 [ClaudioGH]: https://github.com/claudiohsc
