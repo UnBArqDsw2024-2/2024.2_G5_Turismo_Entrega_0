@@ -10,6 +10,7 @@
     - [2.2. Modelagem UML Dinâmica](/Modelagem/2.2.ModelagemDinamica.md)
       - [Diagrama de Sequência](/Modelagem/modelagem-dinamica/diagrama-de-sequencia.md)
     - [2.3. Modelagem UML Organizacional ou Casos de Uso](Modelagem/2.3.ModelagemOrganizacionalCasosDeUso.md)
+      - [2.3.2. Diagrama de Casos de Uso](Modelagem/modelagem%20organizacional/2.3.2.Diagrama-de-casos-de-uso.md)
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
       - [2.5.1. Quadro de Conhecimentos](Modelagem/2.5.1quadro-de-conhecimentos.md)
