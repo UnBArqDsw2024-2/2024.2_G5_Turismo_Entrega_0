@@ -112,7 +112,7 @@ Legenda para as Tabelas:
 
 <center>
 
-| ID  | Requisito Ilicitado | Implementado | Versão | Rastreabilidade |
+| ID  | Requisito elicitado | Implementado | Versão | Rastreabilidade |
 | --- | ------------------- | ------------ | ------ | --------------- |
 | AD01 | O sistema deve ser capas de usar a localização do usuario para mostrar as atrações proximas. | Não | `1.0` | [Brainstorm][Brainstorming]  |
 | AD04 | A aplicação deve ser capaz apresentar eventos filtrados por localidade ao usuário | Não | `1.0` | [Brainstorm][Brainstorming], [Rich Picture][Rich_Picture] |
@@ -176,25 +176,25 @@ Legenda para as Tabelas:
 >
 > 3. BRASIL. Lei nº 13.146, de 6 de novembro de 2015. Estatuto da Pessoa com Deficiência. Diário Oficial da União, Brasília, DF, 9 nov. 2015. Seção 1, p. 1-2. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm. Acesso em: 3 nov. 2024.
 >
-> 4. Brainstorming do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Brainstorming][Brainstorming]. Acesso em: 03 de nov. de 2024
+> 4. Brainstorming do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Brainstorming][Brainstorming]. Acesso em: 03 de nov. de 2024
 >
-> 5. Mapa mental do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Mapa mental][Mapa_mental]. Acesso em: 03 de nov. de 2024
+> 5. Mapa mental do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Mapa mental][Mapa_mental]. Acesso em: 03 de nov. de 2024
 >
-> 6. 5W2H do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [5W2H][5W2H]. Acesso em: 03 de nov. de 2024
+> 6. 5W2H do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [5W2H][5W2H]. Acesso em: 03 de nov. de 2024
 >
-> 7. Diagrama de causa e efeito do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]. Acesso em: 03 de nov. de 2024
+> 7. Diagrama de causa e efeito do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Diagrama de causa e efeito][Diagrama_de_causa_e_efeito]. Acesso em: 03 de nov. de 2024
 >
-> 8. Rich Picture do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Rich Picture][Rich_Picture]. Acesso em: 03 de nov. de 2024
+> 8. Rich Picture do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Rich Picture][Rich_Picture]. Acesso em: 03 de nov. de 2024
 >
-> 9. Léxicos do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Léxicos][Léxicos]. Acesso em: 03 de nov. de 2024
+> 9. Léxicos do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Léxicos][Léxicos]. Acesso em: 03 de nov. de 2024
 >
-> 10. Storyboards do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Storyboards][Storyboards]. Acesso em: 03 de nov. de 2024
+> 10. Storyboards do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Storyboards][Storyboards]. Acesso em: 03 de nov. de 2024
 >
-> 11. Protótipo de baixa fidelidade do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Protótipo de baixa fidelidade][baixaf]. Acesso em: 03 de nov. de 2024
+> 11. Protótipo de baixa fidelidade do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Protótipo de baixa fidelidade][baixaf]. Acesso em: 03 de nov. de 2024
 >
-> 12. Protótipo de alta fidelidade do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Protótipo de alta fidelidade][altaf]. Acesso em: 03 de nov. de 2024
+> 12. Protótipo de alta fidelidade do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Protótipo de alta fidelidade][altaf]. Acesso em: 03 de nov. de 2024
 >
-> 13. Guia de Estilo do grupo 05 de Arquiterura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Guia de Estilo][estilo]. Acesso em: 03 de nov. de 2024
+> 13. Guia de Estilo do grupo 05 de Arquitetura e Desenho de Software 2024.2. Projeto Turismo. Disponível em: [Guia de Estilo][estilo]. Acesso em: 03 de nov. de 2024
 >
 
 ## Histórico de Versão
