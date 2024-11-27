@@ -2,13 +2,7 @@
 
 ## **Introdução**
 
-O presente documento descreve o diagrama de atividades referente ao fluxo de acesso e gerenciamento de festividades e eventos. Este diagrama foi desenvolvido com o objetivo de ilustrar os principais processos e interações entre os usuários e o sistema em diferentes cenários, tais como acessar festividades, eventos e gerenciar informações na área do usuário.
-
----
-
-## **Metodologia**
-
-Para a elaboração do diagrama de atividades, foram utilizadas técnicas de modelagem de processos, destacando os principais fluxos de navegação do usuário no sistema. A representação gráfica segue os padrões de notação UML, abrangendo as seguintes funcionalidades:
+O presente documento descreve o diagrama de atividades referente ao fluxo de acesso e gerenciamento de festividades e eventos. Este diagrama foi desenvolvido com o objetivo de ilustrar os principais fluxos de ações e decisões. A representação gráfica segue os padrões de notação UML, abrangendo as seguintes funcionalidades:
 
 1. **Acessar festividade**: fluxo básico de interação inicial para visualizar uma festividade.
 2. **Acessar evento**: interação para filtrar, acessar e gerenciar eventos.
@@ -17,7 +11,12 @@ Para a elaboração do diagrama de atividades, foram utilizadas técnicas de mod
 
 Os principais elementos do diagrama incluem estados, decisões condicionais e atividades realizadas durante a interação.
 
----
+## **Metodologia**
+
+Para a elaboração do diagrama de atividades, a equipe decidiu dividir as responsabilidades de maneira estratégica. Dois membros se reuniram para criar o diagrama, aplicando técnicas de modelagem de processos e destacando os principais fluxos de navegação do usuário no sistema. Enquanto isso, outro membro ficou responsável pela criação deste documento. 
+
+Para criar o diagrama, utilizamos o o software <a href="https://www.lucidchart.com/" target="blank">Lucidchart</a>.
+
 
 ## **Desenvolvimento**
 
@@ -49,15 +48,11 @@ O diagrama de atividades está segmentado em diferentes fluxos funcionais, cada 
   - **Editar um evento existente.**
   - **Deletar um evento.**
 
----
-
 **Figura 1: Diagrama de Atividades**
 
 ![Diagrama de Atividades](docs/assets/diagrama-de-atividades/diagrama-de-atividades.jpg)
 
-**Fonte**: [Samuel Alves][SamuelGH], 2024.
-
----
+**Autores**: [Joel Rangel][JoelGH], [Kathlyn Lara][KathlynGH], 2024.
 
 **Tabela 1: Resumo das Atividades**
 
@@ -70,18 +65,33 @@ O diagrama de atividades está segmentado em diferentes fluxos funcionais, cada 
 
 **Fonte**: [Samuel Alves][SamuelGH], 2024.
 
----
+## Gravação da Reunião
+<font size="2"><p style="text-align: center">Vídeo 1: Gravação da reunião da realização do Diagrama de Atividades.</p></font>
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/NSocxGJ7qnk" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+Participantes: [Kathlyn Lara](KathlynGH) e [Joel Rangel](JoelGH).
+
+<font size="2"><p style="text-align: center">Data: 18 de novembro de 2024. </p></font>
 
 ## **Bibliografia**
 
-> IBM. Activity diagrams. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-activity. Acesso em: 20 nov. 2024.
+> 1. IBM. Activity diagrams. Disponível em: https://www.ibm.com/docs/pt-br/rational-soft-arch/9.7.0?topic=diagrams-activity. Acesso em: 20 nov. 2024.
+>
+> 2. UML DIAGRAMS. UML Activity Diagrams Overview. Disponível em: https://www.uml-diagrams.org/activity-diagrams.html. Acesso em: 27 nov. 2024.
+>
+> 3. CIN UFPE. Activity Diagram in the Business Use-Case Model. Disponível em: https://www.cin.ufpe.br/~gta/rup-vc/extend.bus_model/guidances/guidelines/activity_diagram_in_the_business_use-case_model_5862EB50.html. Acesso em: 27 nov. 2024.
 ---
 
 ## **Histórico de Versões**
 
 | **Versão** | **Data**       | **Descrição**               | **Autor(es)**       | **Revisor(es)** | **Detalhes da Revisão** |
 | :--------: | -------------- | --------------------------- | ------------------- | --------------- | ----------------------- |
-| `1.0`      | 21/11/2024     | Criação do documento        | [Samuel Alves][SamuelGH],[Joel Rangel][JoelGH],[Kathlyn Lara][KathlynGH] |  |  |
+| `1.0`      | 21/11/2024     | Criação do documento        | [Samuel Alves][SamuelGH] | [Kathlyn Murussi](KathlynGH) | Adicionei mais referências de bibliografia que foram utilizadas e a gravação da reunião |
 
 [AnaGH]: https://github.com/analufernanndess  
 [CainaGH]: https://github.com/freitasc  
