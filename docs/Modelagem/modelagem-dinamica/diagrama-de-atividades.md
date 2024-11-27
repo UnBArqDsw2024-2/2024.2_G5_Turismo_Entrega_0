@@ -13,7 +13,7 @@ Os principais elementos do diagrama incluem estados, decisões condicionais e at
 
 ## **Metodologia**
 
-Para a elaboração do diagrama de atividades, a equipe decidiu dividir as responsabilidades de maneira estratégica. Dois membros se reuniram para criar o diagrama, aplicando técnicas de modelagem de processos e destacando os principais fluxos de navegação do usuário no sistema. Enquanto isso, outro membro ficou responsável pela criação deste documento. 
+Para a elaboração do diagrama de atividades, a equipe decidiu dividir as responsabilidades de maneira que não sobrecarregasse ninguém. Dois membros se reuniram para criar o diagrama, aplicando técnicas de modelagem de processos e destacando os principais fluxos de navegação do usuário no sistema. Enquanto isso, outro membro ficou responsável pela criação deste documento. 
 
 Para criar o diagrama, utilizamos o o software <a href="https://www.lucidchart.com/" target="blank">Lucidchart</a>.
 
