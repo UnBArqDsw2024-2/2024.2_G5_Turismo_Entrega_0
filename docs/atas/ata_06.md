@@ -9,7 +9,7 @@ Este artefato resume a reunião do dia 26 de novembro de 2024 do grupo 05, nele 
 ## Pautas da reunião:
 
 - Review da Sprint 4 - Foco 3 da Entrega 2:
-  - Modelagem Organizacional.
+  - Modelagem Organizacional e de Casos de Uso.
 
 - Organizar fechamento da Sprint 4(19-26/11) - Foco 3 da Entrega 2:
     - Atribuir revisões para os PRs dos focos passados;
