@@ -80,7 +80,7 @@ Foi decidido que haverá a divisão de todos os membros para realizar o Backlog 
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 26/11/2024 | Criação do documento| [Cláudio Henrique][ClaudioGH] |[Elias Oliveira][EliasGH] | |
+|`1.0`| 26/11/2024 | Criação do documento| [Cláudio Henrique][ClaudioGH] |[Elias Oliveira][EliasGH] | Foram encontrados apenas erros de markdown e sobre as pautas da reunião ocorrida. |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
