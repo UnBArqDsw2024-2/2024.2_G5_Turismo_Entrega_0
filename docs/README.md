@@ -5,7 +5,7 @@
 **Entrega**: 02<br>
 
 ## Alunos
-|Foto|Matrícula | Aluno |
+|Foto| Matrícula | Aluno |
 | :--: | :--: | :--: |
 |<img src="https://avatars.githubusercontent.com/u/90392277?v=4" width="100px;" alt="Foto Ana Rocha"/>| 21/1030667  | [Ana Rocha][AnaGH]| 
 |<img src="https://avatars.githubusercontent.com/u/49414401?v=4" width="100px;" alt="Foto Cainã"/>| 18/0014412  | [Cainã][CainaGH] |
@@ -120,7 +120,7 @@ Nenhuma informação adicional.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | :----: | :--: | --------- | ----------- | ------ | :---: |
-| 1.0  | 03/11/2024 | Criação do documento | [Kathlyn][KathlynGH] e [Elias Oliveira][EliasGH] | [Claudio Henrique][ClaudioGH] | Artefato corrigido e revisado. |
+| 1.0  | 28/11/2024 | Criação do documento | [Elias Oliveira][EliasGH] |  |  |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
