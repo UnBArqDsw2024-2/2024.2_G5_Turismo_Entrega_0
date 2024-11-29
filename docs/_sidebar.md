@@ -16,6 +16,7 @@
     - [2.4. Participações - Modelagem](/Modelagem/2.4.ParticipacoesModelagem.md)
     - [2.5. Iniciativas Extras - Modelagem](/Modelagem/2.5.IniciativasExtras.md)
       - [2.5.1. Quadro de Conhecimentos](Modelagem/2.5.1quadro-de-conhecimentos.md)
+      - [2.5.2. Requisitos elicitados](Modelagem/2.5.2.requisitos.md)
   
 - **Atas**
   - [Ata - 03](atas/ata_03.md)
