@@ -119,7 +119,7 @@ Nenhuma informação adicional.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | :----: | :--: | --------- | ----------- | ------ | :---: |
-| `1.0`  | 28/11/2024 | Criação do documento | [Elias Oliveira][EliasGH] |  |  |
+| `1.0`  | 28/11/2024 | Criação do documento | [Elias Oliveira][EliasGH] | [Pablo S. Costa][PabloGH] | Não foi encontrado falhas |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
