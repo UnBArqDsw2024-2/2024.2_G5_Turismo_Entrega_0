@@ -30,7 +30,70 @@ O Projeto Eventour surge como um trabalho da disciplina de arquitetura e desenho
 ## Screenshots da Primeira Entrega
 Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)Modelagem.
 
-### Diagrama de Casos de Uso
+### Modelagem Estática
+
+#### Diagrama de Classes
+
+<div style= "max-width: 800px">
+
+![Diagrama de Classes](./Modelagem/assets/Diagrama-de-Classes.jpg)
+
+</div>
+
+#### Diagrama de Componentes
+
+<div style= "max-width: 800px">
+
+![Diagrama de Componentes](./Modelagem/assets/Diagrama_de_Componente.svg)
+
+</div>
+
+### Modelagem Dinâmica
+
+#### Diagrama de Sequência
+
+<div style= "max-width: 800px">
+
+![Diagrama de Sequência](Base/assets/mapaMental/MapaMental.png)
+
+</div>
+
+
+#### Diagrama de Atividades
+
+<div style= "max-width: 800px">
+
+![Diagrama de Atividades](Base/assets/mapaMental/MapaMental.png)
+
+</div>
+
+#### Diagrama de Comunicação/Colaboração
+
+<div style= "max-width: 800px">
+
+![Diagrama de Comunicação/Colaboração](Base/assets/mapaMental/MapaMental.png)
+
+</div>
+
+#### Diagrama de Estados
+
+<div style= "max-width: 800px">
+
+![Diagrama de Estados](Base/assets/mapaMental/MapaMental.png)
+
+</div>
+
+### Modelagem Organizacional
+
+#### Diagrama de Pacotes
+
+<div style= "max-width: 800px">
+
+![Diagrama de Pacotes](Base/assets/mapaMental/MapaMental.png)
+
+</div>
+
+#### Diagrama de Casos de Uso
 
 <div style= "max-width: 800px">
 
@@ -38,21 +101,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 </div>
 
-### Diagrama de Comunicação/Colaboração
 
-<div style= "max-width: 800px">
-
-![Mapa Mental](Base/assets/mapaMental/MapaMental.png)
-
-</div>
-
-### Diagrama de Estados
-
-<div style= "max-width: 800px">
-
-![Diagrama de Estados](Base/assets/mapaMental/MapaMental.png)
-
-</div>
 
 ## Há algo a ser executado?
 
