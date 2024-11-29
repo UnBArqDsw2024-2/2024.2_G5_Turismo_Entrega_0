@@ -27,7 +27,7 @@
 
 O Projeto Eventour surge como um trabalho da disciplina de arquitetura e desenho de software da Unb - FCTE(Faculade de Ciências e Tecnologias em Engenharia). O Eventour é um Web/App informativo que apresenta eventos relacionados a festas típicas que ocorrem sazonalmente, ele possibilita a filtragem dos eventos por tema e local do usuário.
 
-## Screenshots da Primeira Entrega
+## Screenshots da Segunda Entrega
 Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)Modelagem.
 
 ### Modelagem Estática
@@ -54,7 +54,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Sequência](./assets/diagrama-de-sequencia/Criar%20Evento.png)
+![Diagrama de Sequência](./Modelagem/assets/diagrama-de-sequencia/Criar_Evento.svg)
 
 </div>
 
