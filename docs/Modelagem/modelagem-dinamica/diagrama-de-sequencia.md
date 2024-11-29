@@ -4,7 +4,7 @@ O diagrama de sequência é um diagrama UML que é composto pela representação
 
 ## Metodologia
 
-Para realizar os diagramas de sequência foram escolhidos casos de uso e criado um diagrama de sequência para cada. Os casos de uso foram criados a partir do [diagrama de classes]() realizado anteriormente pelo grupo. Para criar os diagramas seguimos as diretrizes apresentadas abaixo, logo mais abaixo estarão uma tabela com os dados referidos as diretrizes relacionados a cada caso de uso e após os diagramas em si.
+Para realizar os diagramas de sequência foram escolhidos casos de uso e criado um diagrama de sequência para cada. Os casos de uso foram criados a partir do [diagrama de classes](../modelagem-estatica/2.1.1.DiagramaDeClasses.md) realizado anteriormente pelo grupo. Para criar os diagramas seguimos as diretrizes apresentadas, logo mais abaixo está a tabela 1 com os dados referidos as diretrizes relacionados a cada caso de uso e após os diagramas em si apresentados das nas figuras de 1 a 10.
 
 - 1. Selecionar um caso de uso;
 - 2. Escrever uma descrição detalhada das ações do caso de uso;
@@ -786,6 +786,9 @@ Para realizar os diagramas de sequência foram escolhidos casos de uso e criado 
 > 2. Processo de Desenvolvimento e Diagramas de Seqüência. IBM. Disponínel em: [https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams](https://www.ibm.com/docs/pt-br/rsm/7.5.0?topic=uml-sequence-diagrams). Acessado em: 18/11/2024.
 >
 > 3. Tutorial do Diagrama de Sequência: Guia completo com exemplos. Creately. Disponínel em: [https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-sequencia/](https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-sequencia/). Acessado em: 28/11/2024.
+>
+> 4. Sequence Diagram. Quickly and easily create sequence diagrams and other UML type diagrams. Smartdraw. Disponínel em: [https://www.smartdraw.com/sequence-diagram/?srsltid=AfmBOopzFzyfLQciZnBCUy77kBBJdhrZkte-lut-XQcVCnzNZ6odaYoF](https://www.smartdraw.com/sequence-diagram/?srsltid=AfmBOopzFzyfLQciZnBCUy77kBBJdhrZkte-lut-XQcVCnzNZ6odaYoF). Acessado em: 28/11/2024.
+>
 
 ## Histórico de Versão
 
