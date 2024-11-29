@@ -54,7 +54,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Sequência](./assets/diagrama-de-sequencia/Criar%20Evento.png)
+![Diagrama de Sequência](./Modelagem/assets/diagrama-de-sequencia/Criar_Evento.svg)
 
 </div>
 
