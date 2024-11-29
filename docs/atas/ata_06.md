@@ -1,17 +1,24 @@
 
-# Reunião 3: 07/11/2024
+# Reunião 6: 26/11/2024
 
 ## Introdução
 
-Este artefato resume a reunião do dia 07 de Novembro de 2024 do grupo 05, nele está contido os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
+Este artefato resume a reunião do dia 26 de novembro de 2024 do grupo 05, nele está contido os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
 
 
 ## Pautas da reunião:
 
-- Foco 01 da Entrega 02:
-  - Modelagem Estática.
+- Review da Sprint 4 - Foco 3 da Entrega 2:
+  - Modelagem Organizacional e de Casos de Uso.
 
-- Decidir as tecnologias e frameworks a serem utilizados no projeto.
+- Organizar fechamento da Sprint 4(19-26/11) - Foco 3 da Entrega 2:
+    - Atribuir revisões para os PRs dos focos passados;
+    - Review do Diagrama de Pacotes e Diagrama de Casos de Uso;
+    - Tirar dúvidas sobre a composição dos artefatos;
+- Definir membros para realizar o Backlog do produto;
+
+- Reforçar o prazo para elaboração do artefatos;
+- Completar o quadro de participações.
 
 
 ## Integrantes presentes:
@@ -23,7 +30,6 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 <label><input type="checkbox" checked disabled>[Cláudio Henrique](https://github.com/claudiohsc)</label><br>
 <label><input type="checkbox" checked disabled>[Elias Faria](https://github.com/EliasOliver21)</label><br>
 <label><input type="checkbox" checked disabled>[Guilherme Meister](https://github.com/gmeister18)</label><br>
-<label><input type="checkbox" unchecked disabled>[Igor Thiago](https://github.com/Igor-Thiago)</label><br>
 <label><input type="checkbox" checked disabled>[Joel Rangel](https://github.com/JoelSRangel)</label><br>
 <label><input type="checkbox" checked disabled>[Kathlyn Lara](https://github.com/klmurussi)</label><br>
 <label><input type="checkbox" checked disabled>[Pablo Costa](https://github.com/pabloheika)</label><br>
@@ -42,60 +48,39 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 | Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
-| 07/11/2024  | 21:15 | 22:30  | Teams |
+| 26/11/2024  | 21:15 | 21:42 | Teams |
 
 <font size="2" >
 
 <p> 
 
-  Fonte: [Elias Oliveira][EliasGH], 2024. 
+  Autor: [Cláudio Henrique][ClaudioGH], 2024. 
 </p>
 
 </font>
 
-## Resultados da reunião 03
+## Resultados da reunião 06
 
-Os resultados dessa reunião foram:
-
-Foi decidido pelo grupo a divisão das tarefas do foco 01 da segunda entrega, com as seguintes etapas: Diagrama de classes, diagrama de componentes e diagrama de implantação. Foram alocados os membros nas issues criadas pelo PO do projeto, o integrante [Pablo][PabloGH]. Também foi decidido pelo grupo as ferramentas a serem utilizadas no desenvolvimento do projeto e alocados os membros que farão parte do backend e frontend, como mostrado abaixo.
-
-#### Ferramentas e tecnologias escolhidas:
-
-- Backend: **NestJS**
-
-- Frontend: **React**
-
-- Banco de Dados: **MongoDB** 
-
-#### Membros alocados para o frontend:
-
-- [Joel][JoelGH]
-- [Pablo][PabloGH]
-- [Samuel][SamuelGH]
-- [Elias][EliasGH]
-- [Pedro Paulo][PedroPGH]
-
-#### Membros alocados para o backend:
-
-- [Tales][TalesGH]
-- [Lara][KathlynGH]
-- [Pedro Paulo][PedroPGH]
-- [Cainã][CainaGH]
-- [Claudio][ClaudioGH]
-- [Ana luiza][AnaGH]
-- [Guilherme][GuilhermeGH]
+Foi decidido que haverá a divisão de todos os membros para realizar o Backlog do Produto. Foi definida uma deadline até dia 28/11 para finalizar todos os artefatos do projeto. E por fim, ao final da revisão da Sprint 4 foi reforçado o fechamento do quadro de participações.
 
 ## Gravação da reunião
 
-<div style= "max-width:450px">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8UmAeDEWv6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4NE2jgkH74g?si=Yxf5Kj5Tz1szk3l2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<font size="2" >
+
+<p> 
+
+  Autor: [Cláudio Henrique][ClaudioGH], 2024. 
+</p>
+
+</font>
 
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 07/11/2024 | Criação do documento| [Elias Oliveira][EliasGH] | [Claudio][ClaudioGH] |Foi corrigida a data da reunião na introdução e alguns erros de Markdown.|
+|`1.0`| 26/11/2024 | Criação do documento| [Cláudio Henrique][ClaudioGH] |[Elias Oliveira][EliasGH] | Foram encontrados apenas erros de markdown e sobre as pautas da reunião ocorrida. |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc

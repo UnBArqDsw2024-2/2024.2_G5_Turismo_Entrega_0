@@ -7,17 +7,46 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link 
+    rel="stylesheet"
+    href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+    title="docsify-darklight-theme"
+    type="text/css"
+  />
+
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       loadSidebar: true,
-      name: 'Repositorio Template',
-      repo: 'https://github.com/UnBArqDsw2024-2/RepositorioTemplateEntrega2'
+      name: 'EvenTour',
+      logo: 'assets/logo/logo-horizontal.svg',
+      themeColor: '#008DDA',
+      auto2top: true,
+      repo: 'https://github.com/UnBArqDsw2024-2/2024.2_G5_Turismo_Entrega_02/',
+      darklightTheme: {
+                siteFont : 'Lato',
+                defaultTheme : 'light',
+                codeFontFamily : 'Lato, Roboto Mono, Monaco, courier, monospace',
+                bodyFontSize : '13px',
+                dark: {
+                  accent: '#008DDA',
+                  background: '#121212'
+                },
+                light: {
+                  accent: '#008DDA'
+                }
+
+            }
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script 
+    src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+    type="text/javascript">
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
