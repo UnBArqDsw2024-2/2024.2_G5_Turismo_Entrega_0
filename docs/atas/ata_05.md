@@ -11,7 +11,7 @@ Este artefato resume a reunião do dia 19 de novembro de 2024 do grupo 05, nele 
 - Review da Sprint 3 - Foco 2 da Entrega 2:
   - Modelagem Estática e Dinâmina.
 
-- Decidir próximas atividades da Sprint 4(12-19/11) - Foco 3 da Entrega 2.
+- Decidir próximas atividades da Sprint 4(19-26/11) - Foco 3 da Entrega 2.
     - Modelagem organizacional ou Casos de Uso;
     - Diagrama de Pacotes e Diagrama de Casos de Uso.
 
@@ -61,7 +61,7 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 </font>
 
-## Resultados da reunião 04
+## Resultados da reunião 05
 
 Foi decidido na reunião para a próxima Sprint a divisão do grupo em duas equipes de trabalho para a elaboração dos diagramas do terceiro foco, que são: Diagrama de Pacotes e Diagrama de Casos de Uso. Também o grupo se atentou a completar as entregas não concluídas e a realizar até a data final da Sprint 4 a priorização dos requisitos elicitados e elaborar o Backlog  do Produto.
 
