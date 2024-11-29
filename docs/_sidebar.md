@@ -6,6 +6,7 @@
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)
     - [2.1. Modelagem UML Estática](/Modelagem/2.1.ModelagemEstatica.md)
+      - [2.1.1. Diagrama de Classes](/Modelagem/modelagem-estatica/2.1.1.DiagramaDeClasses.md)
       - [2.1.3. Diagrama de Componentes](/Modelagem/2.1.3.DiagramaDeComponentes.md)
     - [2.2. Modelagem UML Dinâmica](/Modelagem/2.2.ModelagemDinamica.md)
       - [2.2.1. Diagrama de Sequência](Modelagem/2.2.1Diagrama-de-sequencia.md)
@@ -20,3 +21,4 @@
   - [Ata - 03](atas/ata_03.md)
   - [Ata - 04](atas/ata_04.md)
   - [Ata - 05](atas/ata_05.md)
+
