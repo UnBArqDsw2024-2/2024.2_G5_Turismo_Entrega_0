@@ -78,7 +78,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Estados](Base/assets/mapaMental/MapaMental.png)
+![Diagrama de Estados](./Modelagem/assets/Diagrama_estados.svg)
 
 </div>
 
