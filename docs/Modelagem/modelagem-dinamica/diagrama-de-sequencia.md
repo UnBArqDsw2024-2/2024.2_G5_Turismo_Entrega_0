@@ -14,23 +14,29 @@ Para realizar os diagramas de sequência foram escolhidos casos de uso e criado 
 - 6. Determinar condições especiais;
 - 7. Desenhar o Diagrama.
 
-## Tabela com as diretrizes para 
+## Tabela com as diretrizes para os diagramas
+
+
+<font size="2"><p style="text-align: center">Tabela 1: Diretrizes para os diagramas de sequencia.</p></font>
+
+<center>
+
 
 <table style="border-style:none;">
     <tbody>
         <tr>
-            <td style="background-color:#000000;padding:2px 3px;text-align:center;" colspan="3" rowspan="1">
+            <td style="background-color:#000000;padding:2px 3px;text-align:center; color: white;" colspan="3" rowspan="1">
                 Diagrama de sequência
             </td>
         </tr>
         <tr>
-            <td style="background-color:#666666;border-bottom:1px solid #000000;padding:2px 3px;text-align:center;">
+            <td style="background-color:#666666;border-bottom:1px solid #000000;padding:2px 3px;text-align:center;color: white;">
                 Casos de Uso
             </td>
-            <td style="background-color:#666666;border-bottom:1px solid #000000;padding:2px 3px;text-align:center;">
+            <td style="background-color:#666666;border-bottom:1px solid #000000;padding:2px 3px;text-align:center;color: white;">
                 Etapas
             </td>
-            <td style="background-color:#666666;border-bottom:1px solid #000000;padding:2px 3px;text-align:center;">
+            <td style="background-color:#666666;border-bottom:1px solid #000000;padding:2px 3px;text-align:center;color: white;">
                 Detalhes
             </td>
         </tr>
@@ -638,35 +644,134 @@ Para realizar os diagramas de sequência foram escolhidos casos de uso e criado 
 </table>
 
 
+</center>
+
+<font size="2"><p style="text-align: center">Autores: [Cláudio Henrique][ClaudioGH], [Elias Oliveira][EliasGH] e [Pablo][PabloGH], 2024.</p></font>
+
+
 ## Diagramas
+
+#### Conhecer festividades por região
+
+<font size="2"><p style="text-align: center">Figura 1: Diagrama de sequencia - Conhecer festividades por região.</p></font>
+
+<center>
+
+![Conhecer festividades por região](../assets/diagrama-de-sequencia/conhecer-festividades-regiao.svg)
+
+</center>
+
+<font size="2"><p style="text-align: center">Autor: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 #### Criar Evento
 
+<font size="2"><p style="text-align: center">Figura 2: Diagrama de sequencia - Criar Evento.</p></font>
+
+<center>
+
 ![CriarEvento](../assets/diagrama-de-sequencia/Criar_Evento.svg)
+
+</center>
+
+<font size="2"><p style="text-align: center">Autor: [Cláudio Henrique][ClaudioGH], 2024.</p></font>
 
 #### Favoritar Evento
 
+<font size="2"><p style="text-align: center">Figura 3: Diagrama de sequencia - Favoritar Evento.</p></font>
+
+<center>
+
 ![FavoritarEvento](../assets/diagrama-de-sequencia/Favoritar_Evento.svg)
 
-#### Filtrar Evento por Tema
+</center>
+
+<font size="2"><p style="text-align: center">Autor: [Cláudio Henrique][ClaudioGH], 2024.</p></font>
+
+#### Comentar eventos
+
+<font size="2"><p style="text-align: center">Figura 4: Diagrama de sequencia - Comentar eventos.</p></font>
+
+<center>
+
+![Comentar eventos](../assets/diagrama-de-sequencia/comentar-eventos.svg)
+
+</center>
+
+<font size="2"><p style="text-align: center">Autor: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+#### Alertas
+
+<font size="2"><p style="text-align: center">Figura 5: Diagrama de sequencia - Alertas.</p></font>
+
+<center>
+
+![Alertas](../assets/diagrama-de-sequencia/alertas.svg)
+
+</center>
+
+<font size="2"><p style="text-align: center">Autor: [Pablo S. Costa][PabloGH], 2024.</p></font>
+
+#### Filtrar Eventos
+
+<font size="2"><p style="text-align: center">Figura 6: Diagrama de sequencia - Filtrar Eventos.</p></font>
+
+<center>
 
 ![FiltrarEventoporTema](../assets/diagrama-de-sequencia/Filtrar_Eventos.svg)
 
+</center>
+
+<font size="2"><p style="text-align: center">Autores: [Elias Oliveira][EliasGH] e [Pablo S. Costa][PabloGH], 2024.</p></font>
+
 #### Avaliar Evento
+
+<font size="2"><p style="text-align: center">Figura 7: Diagrama de sequencia - Avaliar Evento.</p></font>
+
+<center>
 
 ![AvaliarEvento](../assets/diagrama-de-sequencia/Avaliar_Eventos.svg)
 
+</center>
+
+<font size="2"><p style="text-align: center">Autor: [Elias Oliveira][EliasGH], 2024.</p></font>
+
 #### Editar Evento
+
+<font size="2"><p style="text-align: center">Figura 8: Diagrama de sequencia - Editar Evento.</p></font>
+
+<center>
 
 ![EditarEvento](../assets/diagrama-de-sequencia/Editar_Evento.svg)
 
+</center>
+
+<font size="2"><p style="text-align: center">Autor: [Cláudio Henrique][ClaudioGH], 2024.</p></font>
+
 #### Logar
+
+<font size="2"><p style="text-align: center">Figura 9: Diagrama de sequencia - Logar.</p></font>
+
+<center>
 
 ![Logar](../assets/diagrama-de-sequencia/Logar.svg)
 
+</center>
+
+<font size="2"><p style="text-align: center">Autor: [Elias Oliveira][EliasGH], 2024.</p></font>
+
 #### Cadastrar-se
 
+<font size="2"><p style="text-align: center">Figura 10: Diagrama de sequencia - Cadastrar-se.</p></font>
+
+<center>
+
 ![CadastrarEvento](../assets/diagrama-de-sequencia/Cadastrar-se.svg)
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Autor: [Elias Oliveira][EliasGH], 2024.</p></font>
+
 
 ## Gravação da reunião
 
@@ -687,7 +792,8 @@ Para realizar os diagramas de sequência foram escolhidos casos de uso e criado 
 | Versão | Data | Descrição | Autor | Revisor
 |:-:|:-:|:-:|:-:|:-:|
 |`1.0`| 19/11/2024 | Criação do documento| [Cláudio Henrique][ClaudioGH], [Elias Oliveira][EliasGH] e [Pablo][PabloGH]| |
-|`1.0`| 23/11/2024 | Edição da identificação dos diagramas | [Cláudio Henrique][ClaudioGH], [Elias Oliveira][EliasGH] e [Pablo][PabloGH]| |
+|`1.1`| 23/11/2024 | Edição da identificação dos diagramas | [Cláudio Henrique][ClaudioGH], [Elias Oliveira][EliasGH] e [Pablo][PabloGH]| |
+|`1.2`| 28/11/2024 | Finalização do artefato | [Cláudio Henrique][ClaudioGH], [Elias Oliveira][EliasGH] e [Pablo][PabloGH]| |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
