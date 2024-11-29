@@ -1,18 +1,24 @@
 
-# Reunião 4: 12/11/2024
+# Reunião 6: 26/11/2024
 
 ## Introdução
 
-Este artefato resume a reunião do dia 12 de novembro de 2024 do grupo 05, nele está contido os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
+Este artefato resume a reunião do dia 26 de novembro de 2024 do grupo 05, nele está contido os principais objetivos e as questões que a equipe debateu e executou, bem como os resultados obtidos.
 
 
 ## Pautas da reunião:
 
-- Review da Sprint 1 - Foco 01 da Entrega 02:
-  - Modelagem Estática.
+- Review da Sprint 4 - Foco 3 da Entrega 2:
+  - Modelagem Organizacional e de Casos de Uso.
 
-- Decidir a organização do Backlog do Produto e sua priorização.
-- Decidir próximas atividades da Sprint 2(12-19/11) - Foco 2 da Entrega 2
+- Organizar fechamento da Sprint 4(19-26/11) - Foco 3 da Entrega 2:
+    - Atribuir revisões para os PRs dos focos passados;
+    - Review do Diagrama de Pacotes e Diagrama de Casos de Uso;
+    - Tirar dúvidas sobre a composição dos artefatos;
+- Definir membros para realizar o Backlog do produto;
+
+- Reforçar o prazo para elaboração do artefatos;
+- Completar o quadro de participações.
 
 
 ## Integrantes presentes:
@@ -23,8 +29,8 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 <label><input type="checkbox" checked disabled>[Cainã Freitas](https://github.com/freitasc)</label><br>
 <label><input type="checkbox" checked disabled>[Cláudio Henrique](https://github.com/claudiohsc)</label><br>
 <label><input type="checkbox" checked disabled>[Elias Faria](https://github.com/EliasOliver21)</label><br>
-<label><input type="checkbox" unchecked disabled>[Guilherme Meister](https://github.com/gmeister18)</label><br>
-<label><input type="checkbox" unchecked disabled>[Joel Rangel](https://github.com/JoelSRangel)</label><br>
+<label><input type="checkbox" checked disabled>[Guilherme Meister](https://github.com/gmeister18)</label><br>
+<label><input type="checkbox" checked disabled>[Joel Rangel](https://github.com/JoelSRangel)</label><br>
 <label><input type="checkbox" checked disabled>[Kathlyn Lara](https://github.com/klmurussi)</label><br>
 <label><input type="checkbox" checked disabled>[Pablo Costa](https://github.com/pabloheika)</label><br>
 <label><input type="checkbox" checked disabled>[Pedro Menezes](https://github.com/pedro-rodiguero)</label><br>
@@ -42,41 +48,30 @@ Alguns integrantes participaram, outros parcialmente e outros não estavam dispo
 
 | Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
-| 12/11/2024  | 21:15 | 22:00  | Teams |
+| 26/11/2024  | 21:15 | 21:42 | Teams |
 
 <font size="2" >
 
 <p> 
 
-  Fonte: [Cláudio Henrique][ClaudioGH], 2024. 
+  Autor: [Cláudio Henrique][ClaudioGH], 2024. 
 </p>
 
 </font>
 
-## Resultados da reunião 04
+## Resultados da reunião 06
 
-Os resultados dessa reunião foram:
-
-Nessa Sprint 2, o grupo decidiu a divisão das tarefas do foco 02 da segunda entrega, com as seguintes etapas: 
-
-- Documentação dos Diagramas Estáticos;
-- Diagrama de Sequência;
-- Diagrama de Comunicação;
-- Diagrama de Atividades;
-- Diagrama de Estados.
-
-Foram alocados os membros nas issues pelo o integrante [Pablo][PabloGH]. Também foi votado em grupo sobre a mesclagem das técnicas de elicitação de requisitos para produzir um Backlog mais rico. Por fim, também foi decidido a criação de um Backlog divido em Temas, Épicos e Histórias de Usuário.
-
+Foi decidido que haverá a divisão de todos os membros para realizar o Backlog do Produto. Foi definida uma deadline até dia 28/11 para finalizar todos os artefatos do projeto. E por fim, ao final da revisão da Sprint 4 foi reforçado o fechamento do quadro de participações.
 
 ## Gravação da reunião
 
-<iframe src="https://unbbr.sharepoint.com/sites/Grupo5-ArqDSW2024.2/_layouts/15/embed.aspx?UniqueId=964c18da-9904-4ba2-8f0a-c0ed30920756&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Reunião em _General_-20241112_211327-Gravação de Reunião.mp4"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4NE2jgkH74g?si=Yxf5Kj5Tz1szk3l2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <font size="2" >
 
 <p> 
 
-  Fonte: [Cláudio Henrique][ClaudioGH], 2024. 
+  Autor: [Cláudio Henrique][ClaudioGH], 2024. 
 </p>
 
 </font>
@@ -85,8 +80,7 @@ Foram alocados os membros nas issues pelo o integrante [Pablo][PabloGH]. Também
 
 | Versão | Data | Descrição | Autor | Revisor|Detalhes da Revisão|
 |:-:|:-:|:-:|:-:|:-:|:--:|
-|`1.0`| 13/11/2024 | Criação do documento|[Cláudio Henrique][ClaudioGH]   |[Elias Oliveira][EliasGH] | Não foram encontrados inconsistências na ata, apenas erros de markdown.  |
-
+|`1.0`| 26/11/2024 | Criação do documento| [Cláudio Henrique][ClaudioGH] |[Elias Oliveira][EliasGH] | Foram encontrados apenas erros de markdown e sobre as pautas da reunião ocorrida. |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
