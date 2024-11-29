@@ -96,7 +96,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Casos de Uso](./Modelagem/assets/Diagrama-de-CasosdeUso.png)
+![Diagrama de Casos de Uso](./Modelagem/assets/Casos-de-uso.svg)
 
 </div>
 
