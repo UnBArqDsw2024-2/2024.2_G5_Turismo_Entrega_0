@@ -54,16 +54,15 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Sequência](Base/assets/mapaMental/MapaMental.png)
+![Diagrama de Sequência](./assets/diagrama-de-sequencia/Criar%20Evento.png)
 
 </div>
-
 
 #### Diagrama de Atividades
 
 <div style= "max-width: 800px">
 
-![Diagrama de Atividades](Base/assets/mapaMental/MapaMental.png)
+![Diagrama de Atividades](./assets/diagrama-de-atividades/diagrama-de-atividades.jpg)
 
 </div>
 
@@ -71,7 +70,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Comunicação/Colaboração](Base/assets/mapaMental/MapaMental.png)
+![Diagrama de Comunicação/Colaboração](./assets/diagrama-de-comunicacao/Diagrama_de_Comunicacao_2.png)
 
 </div>
 
@@ -89,7 +88,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Pacotes](Base/assets/mapaMental/MapaMental.png)
+![Diagrama de Pacotes](./assets/diagrama-de-pacotes/Diagrama%20de%20Pacotes%20EvenTour.png)
 
 </div>
 
@@ -97,7 +96,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Casos de Uso](Base/assets/mapaMental/MapaMental.png)
+![Diagrama de Casos de Uso](./Modelagem/assets/Diagrama-de-CasosdeUso.png)
 
 </div>
 
@@ -120,7 +119,7 @@ Nenhuma informação adicional.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Detalhes da revisão |
 | :----: | :--: | --------- | ----------- | ------ | :---: |
-| 1.0  | 28/11/2024 | Criação do documento | [Elias Oliveira][EliasGH] |  |  |
+| `1.0`  | 28/11/2024 | Criação do documento | [Elias Oliveira][EliasGH] |  |  |
 
 [AnaGH]: https://github.com/analufernanndess
 [CainaGH]: https://github.com/freitasc
