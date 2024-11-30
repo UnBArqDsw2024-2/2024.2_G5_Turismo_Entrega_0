@@ -62,7 +62,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Atividades](./assets/diagrama-de-atividades/diagrama-de-atividades.jpg)
+![Diagrama de Atividades](./Modelagem/assets/diagrama-de-atividades/diagrama-de-atividades.jpg)
 
 </div>
 
@@ -70,7 +70,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Comunicação/Colaboração](./assets/diagrama-de-comunicacao/Diagrama_de_Comunicacao_2.png)
+![Diagrama de Comunicação/Colaboração](./Modelagem/assets/diagrama-de-comunicacao/Diagrama_de_Comunicacao_2.png)
 
 </div>
 
@@ -88,7 +88,7 @@ Abaixo são apresentados exemplos de artefatos produzidos na entrega 02 - (DSW)M
 
 <div style= "max-width: 800px">
 
-![Diagrama de Pacotes](./assets/diagrama-de-pacotes/Diagrama%20de%20Pacotes%20EvenTour.png)
+![Diagrama de Pacotes](./Modelagem/assets/diagrama-de-pacotes/Diagrama%20de%20Pacotes%20EvenTour.png)
 
 </div>
 

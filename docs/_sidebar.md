@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Projetos](/Projetos/Projetos.md)
+- [Projetos](/Projeto/Projeto.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)
@@ -26,4 +26,5 @@
   - [Ata - 03](atas/ata_03.md)
   - [Ata - 04](atas/ata_04.md)
   - [Ata - 05](atas/ata_05.md)
+  - [Ata - 06](atas/ata_06.md)
 
