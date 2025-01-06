@@ -1,13 +1,21 @@
-import { Body, Controller, Post } from '@nestjs/common';
+import {Body, Controller, Get, Post} from '@nestjs/common';
 import { CreateUserDto } from '../dto/create-user.dto';
 import { UserAdapterMongo } from '../adapter/UserAdapterMongo';
+import {AuthenticateUserCommand} from "../command/user/AuthenticateUserCommand";
+import {CreateUserCommand} from "../command/user/CreateUserCommand";
 
 @Controller('user')
 export class UserController {
-  constructor(private readonly userService: UserAdapterMongo) {}
+  constructor(private readonly authenticateUserCommand: AuthenticateUserCommand,
+              private readonly createUserCommand : CreateUserCommand) {}
 
   @Post()
-  async create(@Body() createUserDto: CreateUserDto) {
-    await this.userService.create(createUserDto);
+  async register(@Body() createUserDto: CreateUserDto) {
+    await this.createUserCommand.execute(createUserDto);
+  }
+
+  @Post()
+  async login(email:string, password:string) {
+    await this.authenticateUserCommand.execute({email, password});
   }
 }
